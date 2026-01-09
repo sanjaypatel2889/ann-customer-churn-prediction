@@ -1,4 +1,4 @@
-# ann-customer-churn-prediction
+# ANN-Customer-Churn-Prediction
 📊 Customer Churn Prediction using Artificial Neural Network (ANN)
 📌 Project Overview:
 
